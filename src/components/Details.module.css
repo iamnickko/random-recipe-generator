@@ -1,0 +1,45 @@
+.instructions {
+  max-width: 80vw;
+  margin: 0.3rem auto;
+  padding: 0.7rem;
+}
+
+#tabs menu {
+    display: flex;
+    gap: 0.25rem;
+}
+
+#tabs button {
+    background-color: #3AB077;
+    color: #fff;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease-out;
+}
+
+#tabs button:hover {
+    background-color: #216645;
+}
+
+#tabs button:active {
+    background-color: #fff;
+    color: #216645;
+    border: 1px solid #216645;
+}
+
+#tabs #active {
+    background-color: #fff;
+    color: #216645;
+    border: 1px solid #216645;
+}
+
+#tabs menu li {
+  list-style-type: none;
+}
+
+.removeBullet {
+    list-style-type: none;
+}

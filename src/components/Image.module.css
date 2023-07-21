@@ -1,0 +1,13 @@
+.image {
+    display: flex;
+    justify-content: center;
+    margin: 0.3rem auto;
+    padding: 0.7rem;
+    max-width: 80vw;
+}
+
+.image img {
+    display: flex;
+    max-width: 100%;
+    width: 500px;
+}

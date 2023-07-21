@@ -1,0 +1,13 @@
+.ingredients-table {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.ingredients-table th {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.ingredients-cells {
+  text-align: right;
+}

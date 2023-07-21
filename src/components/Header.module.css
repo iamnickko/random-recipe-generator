@@ -1,0 +1,19 @@
+.header {
+    max-width: 80vw;
+    display: flex;
+    justify-content: center;
+    margin: 0.3rem auto;
+    padding: 0.2rem 0.7rem;
+    background-color: #43C795;
+    color: #fff;
+}
+
+.header h1 {
+    font-size: 48px;
+    text-align: center;
+}
+
+.header h4 {
+    font-size: 20px;
+    text-align: center;
+}
