@@ -1,3 +1,9 @@
+# random-recipe-generator
+A React.js app that presents a random food recipe using mealDB.com's API.
+
+This project makes use of an opensource API. It presented several opportunities to practice manipulating data objects into formats more useable in my application. This added a layer of complexity to an otherwise basic fetch request, which was then refactored into a custom hook to avoid bloating component files.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
